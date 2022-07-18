@@ -8,7 +8,7 @@ Your device will have to be linked to a MS Account if you wish to enable the cro
 
 If you see this error message on your screen, it means that there is a problem. You may also see the https error message, or ms remoteconnect problem. This problem can occur if your Xbox Live Account has been used previously by another person.
 
-## Why Does the https aka ms remoteconnect Error Occur ?
+## Why Does the aka ms remoteconnect Error Occur ?
 
 * Data Corruption is one of the most common reasons you see the [aka.ms/remoteconnect](https://github.com/akamsremote-connect/) error appearing on your device. 
 * The lack of a proper setup can also lead to the issue we are talking about. 
@@ -17,7 +17,7 @@ If you see this error message on your screen, it means that there is a problem. 
 * Software issues with your PS4 or Nintendo Switch can also the https aka ms remoteconnect error. 
 
 
-## How to Fix https aka ms remoteconnect Not Working Error ?
+## How to Fix aka ms remoteconnect Not Working Error ?
 
 ### Fix 1 : Restart Your Device
 
@@ -57,7 +57,7 @@ Software bugs and driver issues can also cause the remote connect not working er
 
 This solution is more of a universal one in that you do not have to worry about the device you are using. A fresh install of Minecraft can help you resume the gaming experience with ease.
 
-### Fix 6 :  Set Up https aka ms remoteconnect Properly
+### Fix 6 :  Set Up  aka ms remoteconnect Properly
 
 Most of the time, the https [aka.ms/remoteconnect](https://github.com/akamsremote-connect/) system does not work because of a non-ideal setup. It makes sense to set up your system again from the beginning. 
 
