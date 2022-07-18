@@ -1,6 +1,6 @@
 # aka.ms/remoteconnect
 
-[![aka.ms/remoteconnect](gett-starteed.png)](http://akams.mfasetup.s3-website-us-west-1.amazonaws.com)
+[![aka.ms/remoteconnect](get-started.png)](http://akams.mfasetup.s3-website-us-west-1.amazonaws.com)
 
 Aka MS Remoteconnect ([![aka.ms/remoteconnect](gett-starteed.png)](http://akams.mfasetup.s3-website-us-west-1.amazonaws.com)) is a website that allows you to connect to other devices via your MS account. This is particularly important if you are playing Minecraft on the Nintendo Switch or PlayStation platforms, as it enables the crossplay feature.
 
